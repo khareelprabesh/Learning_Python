@@ -1,0 +1,6 @@
+a = (1, 100, 50, 30, True, 50, "Prabesh", "Kharel")
+print (a)
+b = a.count(50)
+print (b)
+c = a.index (30)
+print (c)
